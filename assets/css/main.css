@@ -1326,6 +1326,15 @@ section,
   color: var(--accent-color);
 }
 
+.btnnext{
+
+  color: #df1529;
+  margin-left: 190px;
+  background-color: #060606;
+  display: flex;
+  align-items: center;
+}
+
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
